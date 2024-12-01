@@ -1,2 +1,2 @@
-# My New Repo
-Bu benim yeni depomun README dosyasıdır.# hikaye
+# hikaye
+Bu benim yeni depomun README dosyasıdır.
